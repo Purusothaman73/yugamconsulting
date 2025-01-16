@@ -8,7 +8,7 @@
 /* variable */
 
 :root {
-    --base-color: #BEFF01;
+    --base-color: #788023;
     --medium-gray: #6F7071;
     --dark-gray: #1C1D1F;
     --alt-font: 'Inter', sans-serif;
@@ -91,7 +91,7 @@ header .btn.btn-switch-text.btn-medium>span {
 /* bg color */
 
 .bg-sherpa-blue {
-    background-color: #788023;
+    background-color: #333436;
 }
 
 /* page title */
